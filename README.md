@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lOscilateur26
-- 👀 I’m interested in Network administration, IoT
+- 👀 I’m interested in Network administration, IoT, databases, Neo4J Graph, Python progrmming
 - 🌱 I’m currently learning Cloud Computing, Graph database, Analysis and management of ERP projects, Econometrics, Management Control and Business performance, Marketing and business strategy
 - 💞️ I’m looking to collaborate on netwok projects ...
 - 📫 How to reach me ...
